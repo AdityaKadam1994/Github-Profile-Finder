@@ -1,0 +1,24 @@
+body {
+	margin:0 0 30px 0;
+}
+.navbar-nav a {
+	color: white;
+}
+.navbar-nav a:hover {
+	color: white;
+}
+
+.profile-section {
+	margin-top: 20px;
+}
+.search-container {
+	margin-top: 30px;
+}
+
+.card-img-top {
+	height: 250px;
+}
+.btn {
+	display: inline-block;
+	font-size: 14px;
+}
